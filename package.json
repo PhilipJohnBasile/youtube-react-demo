@@ -1,9 +1,9 @@
 {
-  "name": "redux-simple-starter",
+  "name": "youtube-react-demo",
   "version": "1.0.0",
-  "description": "Simple starter package for Redux with React and Babel support",
+  "description": "A youtube search demo showing off how fast react works. It's better than the search on the actual youtube.",
   "main": "index.js",
-  "repository": "git@github.com:StephenGrider/ReduxSimpleStarter.git",
+  "repository": "git@github.com:PhilipJohnBasile/youtube-react-demo.git",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
   },
